@@ -1,0 +1,81 @@
+body
+{
+    font-family: 'Righteous', cursive;
+    background-color: burlywood;  
+}
+.header_div
+{
+background: white;
+color: red;
+}
+.header_div img
+{
+    width: 100px;
+
+}
+.main_div
+{
+    background: palevioletred;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid white;
+}
+.main_div label
+{
+    background-color: white;
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px white;
+}
+#camera,#result
+{
+    border: 2px solid white;
+    width: 310px;
+    height: 300px;
+    box-shadow: -7px 7px 20px whitesmoke;
+}
+.main_div button
+{
+width: 310px; font-size: 16px; bottom: 1px solid;
+}
+#blue_button
+{
+    box-shadow: 7px 6px 20px 5px lightskyblue;
+}
+#green_button
+{
+    box-shadow: 7px 6px 20px 5px lightgreen;
+}
+.copy_right_footer
+{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: deeppink;
+    color: black;
+    text-align: left;
+    line-height: 3;
+}
+.footer_div img
+{
+width: 70px;
+
+}
+.footer_div{
+    margin-bottom: 50px;
+}
+.footer_div h4{
+background-color: white;
+border-radius: 10px;
+padding:7px;
+box-shadow: 2px 3px 20px whitesmoke;
+transition: 500ms;
+}
+.footer_div h4:hover{
+    background-color: lightgray;
+    border-radius: 10px;
+    padding:7px;
+    box-shadow: 2px 3px 20px lightslategray;
+    }
+    
